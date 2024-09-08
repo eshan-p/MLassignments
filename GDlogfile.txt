@@ -1,0 +1,96 @@
+Num of iterations: 1000, initial learning rate: 0.1, alpha: 0.1
+Training Error: 0.4460290889912604, Training r2: 0.30594724924990047, Test Error: 0.5196748579684349, Test r2: 0.2448708623977559
+
+Num of iterations: 10000, initial learning rate: 0.001, alpha: 0.01
+Training Error: 0.4209617016280416, Training r2: 0.35547338883613666, Test Error: 0.4387255952378714, Test r2: 0.3191455360033033
+
+Num of iterations: 100000, initial learning rate: 0.001, alpha: 0.01
+Training Error: 0.41183429202040717, Training r2: 0.3522533122195306, Test Error: 0.4862795537278279, Test r2: 0.30375108290482833
+
+Num of iterations: 50000, initial learning rate: 0.001, alpha: 0.01
+Training Error: 0.411681092050575, Training r2: 0.35404571323503853, Test Error: 0.46052721696470866, Test r2: 0.349643681411287
+
+Num of iterations: 15000, initial learning rate: 0.001, alpha: 0.01
+Training Error: 0.4171881183241298, Training r2: 0.34836997478524556, Test Error: 0.45118729100319593, Test r2: 0.3496033194615792
+
+Num of iterations: 20000, initial learning rate: 0.001, alpha: 0.01
+Training Error: 0.4200025244076683, Training r2: 0.36648598775717467, Test Error: 0.42531099678976475, Test r2: 0.2992575168336483
+
+Num of iterations: 20000, initial learning rate: 1e-05, alpha: 0.01
+Training Error: 3.8313986751503046, Training r2: -4.818423308153559, Test Error: 3.925777520051949, Test r2: -5.282814735767061
+
+Num of iterations: 20000, initial learning rate: 0.0001, alpha: 0.01
+Training Error: 0.618868065041018, Training r2: 0.051528753492449675, Test Error: 0.7026992100512357, Test r2: -0.10777140078278435
+
+Num of iterations: 20000, initial learning rate: 0.001, alpha: 0.01
+Training Error: 0.4271352143417497, Training r2: 0.3451251254367341, Test Error: 0.4004239732894157, Test r2: 0.3838149966212405
+
+Num of iterations: 20000, initial learning rate: 0.01, alpha: 0.01
+Training Error: 0.4287211615896156, Training r2: 0.3526821874945374, Test Error: 0.37490629783963536, Test r2: 0.38031016611872837
+
+Num of iterations: 20000, initial learning rate: 0.01, alpha: 0.001
+Training Error: 0.40878586604076494, Training r2: 0.36325102467930537, Test Error: 0.4628199811598209, Test r2: 0.32847657002103203
+
+Num of iterations: 20000, initial learning rate: 0.01, alpha: 0.0001
+Training Error: 0.42966613991234387, Training r2: 0.3573378197418724, Test Error: 0.3685972688584544, Test r2: 0.36771320326483403
+
+Num of iterations: 20000, initial learning rate: 0.01, alpha: 0.005
+Training Error: 0.4083020808754339, Training r2: 0.3597197715015562, Test Error: 0.46557845666714837, Test r2: 0.34032690895772855
+
+Num of iterations: 20000, initial learning rate: 0.01, alpha: 0.0025
+Training Error: 0.4189090748307725, Training r2: 0.3418649518835013, Test Error: 0.4233169056955495, Test r2: 0.3951265468962901
+
+Num of iterations: 20000, initial learning rate: 0.005, alpha: 0.0025
+Training Error: 0.4122624243408464, Training r2: 0.34920466551365825, Test Error: 0.4421434120297274, Test r2: 0.39001555572531676
+
+Num of iterations: 20000, initial learning rate: 0.005, alpha: 0.0025
+Training Error: 0.4051182179445733, Training r2: 0.36566846479812243, Test Error: 0.4677000860310301, Test r2: 0.33555558748626535
+
+Num of iterations: 20000, initial learning rate: 0.005, alpha: 0.0025
+Training Error: 0.41735626996744996, Training r2: 0.3594876696720892, Test Error: 0.42049058441050946, Test r2: 0.35540598147223523
+
+Num of iterations: 25000, initial learning rate: 0.005, alpha: 0.0025
+Training Error: 0.4213067628594234, Training r2: 0.36197254532746836, Test Error: 0.4053988394491833, Test r2: 0.3431096721375346
+
+Num of iterations: 25000, initial learning rate: 0.0035, alpha: 0.0025
+Training Error: 0.4216266004900988, Training r2: 0.35882659409511175, Test Error: 0.40301921084186104, Test r2: 0.3469138454810563
+
+Num of iterations: 25000, initial learning rate: 0.0035, alpha: 0.0025
+Training Error: 0.42196474140236806, Training r2: 0.3510720796947354, Test Error: 0.40116141995679033, Test r2: 0.390122195445464
+
+Num of iterations: 25000, initial learning rate: 0.0035, alpha: 0.0025
+Training Error: 0.4067253721883478, Training r2: 0.37657249770343015, Test Error: 0.4665003542583449, Test r2: 0.25358777049556214
+
+Num of iterations: 25000, initial learning rate: 0.0035, alpha: 0.0025
+Training Error: 0.5623508831635227, Training r2: 0.1252984418773745, Test Error: 0.5681967148336656, Test r2: 0.1724859040695289
+
+Num of iterations: 25000, initial learning rate: 0.0035, alpha: 0.0025
+Training Error: 0.4218916677909339, Training r2: 0.34363914370771265, Test Error: 0.4287389024303879, Test r2: 0.37388063707594643
+
+Num of iterations: 25000, initial learning rate: 0.0035, alpha: 0.0025
+Training Error: 0.4167373564915389, Training r2: 0.3539473446975313, Test Error: 0.4257888876901146, Test r2: 0.3723887363148979
+
+Num of iterations: 25000, initial learning rate: 0.0035, alpha: 0.005
+Training Error: 0.41634725727320493, Training r2: 0.34986835272522254, Test Error: 0.43902124514794105, Test r2: 0.3668557334354521
+
+Num of iterations: 25000, initial learning rate: 0.00475, alpha: 0.0025
+Training Error: 0.4382728704633003, Training r2: 0.324056641545573, Test Error: 0.4759638185263122, Test r2: 0.28426493454689894
+
+Num of iterations: 25000, initial learning rate: 0.0035, alpha: 0.0025
+Training Error: 0.4122422070482809, Training r2: 0.3632465042527486, Test Error: 0.4547405249987208, Test r2: 0.3135081340409397
+
+Num of iterations: 25000, initial learning rate: 0.0035, alpha: 0.0025
+Training Error: 0.4363075506919845, Training r2: 0.35287609501314987, Test Error: 0.3590749548240882, Test r2: 0.36004463634804673
+
+Num of iterations: 25000, initial learning rate: 0.0035, alpha: 0.004
+Training Error: 0.42561131291916265, Training r2: 0.3642641844689398, Test Error: 0.41224661987795697, Test r2: 0.2876467452665745
+
+Num of iterations: 25000, initial learning rate: 0.0035, alpha: 0.0025
+Training Error: 0.4207463505967933, Training r2: 0.34434097179254275, Test Error: 0.4923235293636917, Test r2: 0.2883810992202298
+
+Num of iterations: 25000, initial learning rate: 0.0035, alpha: 0.0025
+Training Error: 0.4075676131243415, Training r2: 0.3647591040896311, Test Error: 0.46539890225504726, Test r2: 0.3241984771350014
+
+Num of iterations: 25000, initial learning rate: 0.0035, alpha: 0.0025
+Training Error: 0.43582008365989144, Training r2: 0.34575354549483284, Test Error: 0.40750603120538076, Test r2: 0.31349339307332547
+
