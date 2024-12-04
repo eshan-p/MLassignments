@@ -7,7 +7,7 @@
 - libraries/imports used:
     - re (regex for preprocessing tweets)
     - requests (loading text file from GitHub repo)
-    - random 
+    - random (initial logic for k-means function)
 
 - 'cnnhealth.txt' file used from UCI dataset provided in assignment
     - program may take up to ~3 minutes to build & run due to size of text file
